@@ -1,12 +1,14 @@
 # Discord Webhook Tester
 ## By XO 
-##### Written In c# and python
+##### Written In c# and python using https://github.com/kyb3r/dhooks
 
 
 ### Requirements
 - .NET 4.6.2 (https://www.microsoft.com/net/download/dotnet-framework-runtime/net462)
 
 - Python 3+ (https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
+
+- Requests Python Module
 
 ### How To Use
 - Open the .exe enter your webhook and press start
